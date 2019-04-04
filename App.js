@@ -7,7 +7,6 @@ import Amplify from 'aws-amplify';
 import amplify from './YOUR-PATH-TO/aws-exports';
 
 export default class App extends React.Component {
-
   
   state = {
     isLoadingComplete: false,

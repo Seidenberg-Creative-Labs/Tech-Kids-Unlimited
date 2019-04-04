@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "careweaver-20190314181704-authRole",
+            "UnauthRoleArn": "arn:aws:iam::822737077176:role/careweaver-20190314181704-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::822737077176:role/careweaver-20190314181704-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "careweaver-20190314181704-deployment",
+            "UnauthRoleName": "careweaver-20190314181704-unauthRole",
+            "StackName": "careweaver-20190314181704",
+            "StackId": "arn:aws:cloudformation:us-east-1:822737077176:stack/careweaver-20190314181704/e79e2f90-46a6-11e9-a925-0ae81055537e"
+        },
+        "categories": {
+            "auth": {
+                "cognito6f246be1": {}
+            }
+        }
+    }
+}

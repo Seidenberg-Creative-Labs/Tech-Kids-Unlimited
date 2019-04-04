@@ -1,0 +1,17 @@
+{
+    "projectName": "careweaver",
+    "version": "2.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react-native",
+        "config": {
+            "SourceDir": "/",
+            "DistributionDir": "/",
+            "BuildCommand": "yarn",
+            "StartCommand": "yarn start"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
